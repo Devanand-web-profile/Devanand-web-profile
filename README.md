@@ -1,4 +1,4 @@
-- 👋 Hi, I name is Devanand kumar rana
+- 👋 Hi, My name is Devanand kumar rana
 - 👀 I’m interested in web designing and Software testing
 - 🌱 I’m currently learning Bachelor of Computer applicstion.
 - 💞️ I’m looking to collaborate on ...Web designer's
